@@ -1,8 +1,8 @@
 cask 'font-vlgothic' do
-  version '20141206'
+  version '20200720'
   sha256 :no_check
 
-  url 'https://ja.osdn.net/frs/redir.php?m=iij&f=vlgothic%2F62375%2FVLGothic-20141206.zip'
+  url 'https://osdn.net/frs/redir.php?m=ymu&f=vlgothic%2F73361%2FVLGothic-20200720.zip'
   name 'vlgothic'
   homepage 'http://vlgothic.dicey.org/'
 
